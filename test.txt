@@ -1,1 +1,2 @@
 测试文件test测试git提交步骤-->git add 添加到暂存区 -->git commit 将暂存区的所有内容提交到当前分支上
+测试git checkout 指令
